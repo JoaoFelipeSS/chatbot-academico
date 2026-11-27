@@ -37,12 +37,12 @@ Projeto da **Fábrica de Software LABTECH — UDF** · **Squad 2** · 2026
 
 | Integrante | Papel |
 |---|---|
-| João Vítor | Scrum Master / Back-End |
-| João Felipe Soares Silva | Product Owner |
-| Augusto Gomes Gomes | Back-End (IA / busca) |
-| Lucas Barreto | Back-End (dados / segurança) |
-| Eduardo Alves | Front-End |
-| Rener Ferreira | QA / Documentação |
+| João Felipe Soares Silva | Scrum Master e Documentação |
+| Eduardo Alexandro | Pesquisa e Análise Técnica |
+| Rener Ferreira | Analista de Sistemas |
+| João Vítor Miranda | Desenvolvimento e Integração |
+| Augusto Micael | Base de Conhecimento |
+| Lucas Barreto | Testes e Qualidade |
 
 > **Sobre a base de conhecimento:** a pasta `knowledge_base/` (PDFs institucionais e `chunks.jsonl`) não é versionada neste repositório. Para rodar o chatbot, coloque a pasta `knowledge_base/` na raiz do projeto.
 
